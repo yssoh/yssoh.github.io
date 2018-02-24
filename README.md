@@ -1,7 +1,7 @@
 ### About me
 I am a sixth year graduate student in the <a href="http://www.cms.caltech.edu/">Applied and Computational Mathematics</a> option at the <a href="http://www.caltech.edu/">California Institute of Technology</a>. My advisor is <a href="http://users.cms.caltech.edu/~venkatc/">Venkat Chandrasekaran</a>.
   
-I am broadly interested in optimization, signal processing, and sequential analysis.  Specifically, I am interested in understanding the role that convex optimization (and convexity in general) plays in signal processing, as well as the limits that are involved in terms of statistical inference and computation.  My most recent projects revolve the around the question of estimating a convex body from data-points.  Such a problem can be posed as one of "can I learn a regularizing function from my data?".
+I am broadly interested in optimization, signal processing, and sequential analysis.  Specifically, I am interested in understanding the role that convex optimization (and convexity in general) plays in signal processing, as well as the limits that are involved in terms of statistical inference and computation.  My most recent projects revolve the around the question of estimating a convex body from data-points.
 
 I graduated from the <a href = "http://www.cam.ac.uk/">University of Cambridge</a> (UK) in 2011 with a BA in <a href = "http://www.maths.cam.ac.uk/">Mathematics</a>. I worked as a Research Engineer at the <a href = "http://www.i2r.a-star.edu.sg/">Institute for Infocomm Research</a> in the academic year of 2011 to 2012 under the supervision of <a href="http://people.sutd.edu.sg/~tonyquek/">Tony Quek</a>, and also in collaboration with <a href = "http://scholar.google.co.in/citations?user=QG9iXtUAAAAJ">Marios Kountouris</a>. 
 
