@@ -1,4 +1,4 @@
-I am a sixth year graduate student in the <a href="http://www.cms.caltech.edu/">Applied and Computational Mathematics</a> option at the <a href="http://www.caltech.edu/">California Institute of Technology</a>. My advisor is <a href="http://users.cms.caltech.edu/~venkatc/">Venkat Chandrasekaran.
+I am a sixth year graduate student in the <a href="http://www.cms.caltech.edu/">Applied and Computational Mathematics</a> option at the <a href="http://www.caltech.edu/">California Institute of Technology</a>. My advisor is <a href="http://users.cms.caltech.edu/~venkatc/">Venkat Chandrasekaran</a>.
   
 I am broadly interested in optimization, signal processing, and sequential analysis. Specifically, I am interested in understanding the role that convex optimization (and convexity in general) plays in signal processing, as well as the fundamental limits that are involved in terms of statistical inference and computation.
 
