@@ -1,9 +1,21 @@
 ### About me
-I am Research Scientist in the <a href="http://www.a-star.edu.sg/ihpc">Institute of High Performance Computing (IHPC)</a>.  I am also an Adjunct Assistant Professor in the <a href="http://ww1.math.nus.edu.sg/default.aspx"> Department of Mathematics</a> at the <a href="http://nus.edu.sg/"> National University of Singapore (NUS) </a>.  You can reach me at SOH_YONG_SHENG(at)ihpc(dot)a-star(dot)edu(dot)sg.
+I am Research Scientist in the <a href="http://www.a-star.edu.sg/ihpc">Institute of High Performance Computing (IHPC)</a>.  I am also an Adjunct Assistant Professor in the <a href="http://ww1.math.nus.edu.sg/default.aspx"> Department of Mathematics</a> at the <a href="http://nus.edu.sg/"> National University of Singapore (NUS) </a>.  
 
 I am broadly interested in optimization, signal processing, and sequential analysis.  Specifically, I am interested in understanding the role that convex optimization (and convexity in general) plays in signal processing, as well as the limits that are involved in terms of statistical inference and computation.  My most recent projects revolve the around the question of estimating a convex body from data-points.
 
 I obtained my PhD in Applied and Computational Mathematics (ACM) from the <a href = "http://www.cms.caltech.edu/">Department of Computing and Mathematical Sciences (CMS)</a> at the <a href="http://www.caltech.edu/">California Institute of Technology (Caltech)</a> in 2018. My advisor is <a href="http://users.cms.caltech.edu/~venkatc/">Venkat Chandrasekaran</a>.  Before that, I was as a Research Engineer at the <a href = "http://www.i2r.a-star.edu.sg/">Institute for Infocomm Research</a> from 2011 to 2012 under the supervision of <a href="http://people.sutd.edu.sg/~tonyquek/">Tony Quek</a>, and also in collaboration with <a href = "http://scholar.google.com/citations?user=QG9iXtUAAAAJ&hl=en">Marios Kountouris</a>.  I obtained my BA in <a href = "http://www.maths.cam.ac.uk/">Mathematics</a> from the <a href = "http://www.cam.ac.uk/">University of Cambridge</a> (UK) in 2011.
+
+### Contact me
+Institute for High Performance Computing<br>
+1 Fusionopolis Way <br>
+#16-16 Connexis, Singapore 138632 <br><br>
+Department of Mathematics <br>
+National University of Singapore <br>
+Level 4, Block S17 <br>
+10 Lower Kent Ridge Road <br>
+Singapore 119076
+
+You can reach me at SOH_YONG_SHENG(at)ihpc(dot)a-star(dot)edu(dot)sg.  If you are a NUS student who is interested in working in the field of optimization for a Honours Year Project, please feel free to drop me an email.
 
 ### Journal Publications
 - Y. S. Soh, V. Chandrasekaran, <a href = "http://arxiv.org/abs/1701.01207"> A Matrix Factorization Approach for Learning Semidefinite-Representable Regularizers</a>, <i>(accepted, Foundations of Computational Mathematics)</i>, January 2017, <a href = "http://www.its.caltech.edu/~ysoh/sdpreg/matlab.html"> MATLAB code for replicating experiments</a>. <i>(INFORMS 2018 Optimization Society Student Paper Prize <a href ="http://www.informs.org/Recognizing-Excellence/Community-Prizes/Optimization-Society/Optimization-Society-Student-Paper-Prize">(link here)</a>)</i>.
