@@ -17,18 +17,32 @@ Singapore 119076
 
 You can reach me at SOH_YONG_SHENG(at)ihpc(dot)a-star(dot)edu(dot)sg.  If you are a NUS student who is interested in working in the field of optimization for a Honours Year Project, please feel free to drop me an email.
 
-### Journal Publications
-- Y. S. Soh, V. Chandrasekaran, <a href = "http://arxiv.org/abs/1903.04194">Fitting Tractable Convex Sets to Support Function Evaluations</a>, arXiv preprint, March 2019, <a href = "http://github.com/yssoh/yssoh.github.io/tree/master/cvxreg_matlab">MATLAB code for replicating experiments</a>.
-- Y. S. Soh, V. Chandrasekaran, <a href = "http://link.springer.com/article/10.1007/s10208-018-9386-z">Learning Semidefinite Regularizers</a>, <i>(accepted, Foundations of Computational Mathematics)</i>, January 2017, <a href = "http://www.its.caltech.edu/~ysoh/sdpreg/matlab.html">MATLAB code for replicating experiments</a>, <a href = "http://arxiv.org/abs/1701.01207">arXiv pre-print</a> <i>(INFORMS 2018 Optimization Society Student Paper Prize <a href ="http://www.informs.org/Recognizing-Excellence/Community-Prizes/Optimization-Society/Optimization-Society-Student-Paper-Prize">(link here)</a>)</i>.
-- Y. S. Soh, V. Chandrasekaran, <a href = "http://www.sciencedirect.com/science/article/pii/S1063520315001542"> High-Dimensional Change-Point Estimation: Combining Filtering with Convex Optimization</a>, Applied and Computational Harmonic Analysis, November 2015, <a href = "http://arxiv.org/abs/1412.3731">arXiv pre-print</a>.
-- Y. S. Soh, T. Q. S. Quek, M. Kountouris, and H. Shin, <a href = "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6502479" >Energy Efficient Heterogeneous Cellular Networks</a> IEEE Journal on Selected Areas in Communications, April 2013.
-- Y. S. Soh, T. Q. S. Quek, M. Kountouris, and G. Caire, <a href = "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6594782">Cognitive Hybrid Division Duplex for Two-Tier Femtocell Networks</a>, IEEE Transactions on Wireless Communications, September 2013.
+### Pre-print
+
+* Fitting Tractable Convex Sets to Support Function Evaluations, Y. S. Soh and V. Chandrasekaran, Mar '19, <a href = "http://arxiv.org/abs/1903.04194">arXiv pre-print</a>, <a href = "http://github.com/yssoh/cvxreg">MATLAB code</a>
+
+### Publications
+
+* Learning Semidefinite Regularizers, Y. S. Soh and V. Chandrasekaran, Foundations of Computational Mathematics, Jan '17, 
+<a href = "http://link.springer.com/article/10.1007/s10208-018-9386-z">PDF</a>, <a href = "http://arxiv.org/abs/1701.01207">arXiv pre-print</a>, 
+<i>awarded the <a href ="http://www.informs.org/Recognizing-Excellence/Community-Prizes/Optimization-Society/Optimization-Society-Student-Paper-Prize">INFORMS 2018 Optimization Society Student Paper Prize</a></i>
+
+* High-Dimensional Change-Point Estimation: Combining Filtering with Convex Optimization, Y. S. Soh and V. Chandrasekaran, Applied and Computational Harmonic Analysis, November '15, <a href = "http://www.sciencedirect.com/science/article/pii/S1063520315001542">PDF</a>, <a href = "http://arxiv.org/abs/1412.3731">arXiv pre-print</a>
+
+* Energy Efficient Heterogeneous Cellular Networks, Y. S. Soh, T. Q. S. Quek, M. Kountouris, and H. Shin, IEEE Journal on Selected Areas in Communications, Apr '13, <a href = "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6502479">PDF</a>, <a href = "http://github.com/yssoh/green_hcn">MATLAB code</a>
+
+* Cognitive Hybrid Division Duplex for Two-Tier Femtocell Networks, Y. S. Soh, T. Q. S. Quek, M. Kountouris, and G. Caire, IEEE Transactions on Wireless Communications, September '13, <a href = "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6594782">PDF</a>
+
+### Thesis
+
+* Fitting Convex Sets to Data: Algorithms and Applications, Aug '18, <a href = "http://thesis.library.caltech.edu/11208/1/YongSheng_Soh_2019.pdf">PDF</a>, <i>awarded the W. P. Carey & Co. Prize for oustanding thesis in Applied Mathematics and the Ben P. C. Chou Doctoral Prize for outstanding thesis in Information Science and Technology</i>
 
 ### Conference Proceedings
-- Y. S. Soh, V. Chandrasekaran, <a href = "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7282435&tag=1"> High-Dimensional Change-Point Estimation: Combining Filtering with Convex Optimization</a>, ISIT, Hong Kong, June 2015.
-- Y. S. Soh, T. Q. S. Quek, and M. Kountouris, <a href = "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6655024&tag=1">Dynamic sleep mode strategies in energy efficient cellular networks</a>, IEEE International Conference on Communications, Budapest, June 2013.
-- Y. S. Soh, T. Q. S. Quek, M. Kountouris, and G. Caire, <a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6503443">Flexible duplex for cognitive femtocells in two-tier networks</a>, Globecom, Anaheim, CA, December 2012.
-- T. Q. S. Quek, Y. S. Soh, and M. Kountouris, <a href = "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6398710">Hybrid division duplex for cognitive small cell networks</a>, WPMC, Taipei, September 2012.
+
+* Y. S. Soh, V. Chandrasekaran, <a href = "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7282435&tag=1"> High-Dimensional Change-Point Estimation: Combining Filtering with Convex Optimization</a>, ISIT, Hong Kong, June 2015.
+* Y. S. Soh, T. Q. S. Quek, and M. Kountouris, <a href = "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6655024&tag=1">Dynamic sleep mode strategies in energy efficient cellular networks</a>, IEEE International Conference on Communications, Budapest, June 2013.
+* Y. S. Soh, T. Q. S. Quek, M. Kountouris, and G. Caire, <a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6503443">Flexible duplex for cognitive femtocells in two-tier networks</a>, Globecom, Anaheim, CA, December 2012.
+* T. Q. S. Quek, Y. S. Soh, and M. Kountouris, <a href = "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6398710">Hybrid division duplex for cognitive small cell networks</a>, WPMC, Taipei, September 2012.
 
 ### Teaching
 I was a teaching assistant in these courses.
