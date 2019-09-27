@@ -1,4 +1,7 @@
 ### About me
+
+Link to <a href="https://scholar.google.com/citations?user=OPntcXsAAAAJ&hl=en">Google Scholar Page</a>
+
 I am Research Scientist in the <a href="http://www.a-star.edu.sg/ihpc">Institute of High Performance Computing (IHPC)</a>.  I am also an Adjunct Assistant Professor in the <a href="http://ww1.math.nus.edu.sg/default.aspx"> Department of Mathematics</a> at the <a href="http://nus.edu.sg/"> National University of Singapore (NUS) </a>.  
 
 I am broadly interested in optimization, signal processing, and sequential analysis.  Specifically, I am interested in understanding the role that convex optimization (and convexity in general) plays in signal processing, as well as the limits that are involved in terms of statistical inference and computation.  My most recent projects revolve the around the question of estimating a convex body from data-points.
