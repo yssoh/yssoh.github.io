@@ -22,9 +22,13 @@ You can reach me at SOH_YONG_SHENG(at)ihpc(dot)a-star(dot)edu(dot)sg.  If you ar
 
 ### Pre-print
 
-* Fitting Tractable Convex Sets to Support Function Evaluations, Y. S. Soh and V. Chandrasekaran, Mar '19, <a href = "http://arxiv.org/abs/1903.04194">arXiv pre-print</a>, <a href = "http://github.com/yssoh/cvxreg">MATLAB code</a>
+* Group Invariant Dictionary Learning, Y. S. Soh, Jul '20, <a href = "https://arxiv.org/abs/2007.07550">arXiv pre-print</a>
+
+* A Note on Convex Relaxations for the Inverse Eigenvalue Problem, U. Candogan, Y. S. Soh, and V. Chandrasekaran, Nov '19, <a href = "https://arxiv.org/abs/1911.02225">arXiv pre-print</a>
 
 ### Publications
+
+* Fitting Tractable Convex Sets to Support Function Evaluations, Y. S. Soh and V. Chandrasekaran, Discrete and Computational Geometry (accepted), <a href = "http://arxiv.org/abs/1903.04194">arXiv pre-print</a>, <a href = "http://github.com/yssoh/cvxreg">MATLAB code</a>
 
 * Learning Semidefinite Regularizers, Y. S. Soh and V. Chandrasekaran, Foundations of Computational Mathematics, Jan '17, 
 <a href = "http://link.springer.com/article/10.1007/s10208-018-9386-z">PDF</a>, <a href = "http://arxiv.org/abs/1701.01207">arXiv pre-print</a>, 
