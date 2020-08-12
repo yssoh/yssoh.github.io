@@ -1,9 +1,9 @@
-Research Scientist, Mathematical Optimization <br>
-Institute for High Performance Computing (IHPC) <br>
-SOH_YONG_SHENG(at)ihpc(dot)a-star(dot)edu(dot)sg <br><br>
 
 <a href="https://scholar.google.com/citations?user=OPntcXsAAAAJ&hl=en">Google Scholar Page</a> <br>
 <a href="https://github.com/yssoh">GitHub Page</a> <br>
+
+Email: SOH_YONG_SHENG(at)ihpc(dot)a-star(dot)edu(dot)sg <br><br>
+
 
 ### About me
 
