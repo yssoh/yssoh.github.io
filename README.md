@@ -25,9 +25,9 @@ Singapore 119076
 
 You can reach me at SOH_YONG_SHENG(at)ihpc(dot)a-star(dot)edu(dot)sg.  If you are a NUS student who is interested in working in the field of optimization for a Honours Year Project, please feel free to drop me an email.
 
-### Pre-print
+### Pre-prints
 
-* Group Invariant Dictionary Learning, Y. S. Soh, Jul '20, <a href = "https://arxiv.org/abs/2007.07550">arXiv version</a>
+* Group Invariant Dictionary Learning, Y. S. Soh, Jul '20, <a href = "https://arxiv.org/abs/2007.07550">arXiv version</a>  
 
 * Collaborative Inference for Efficient Remote Monitoring, C. Zhang, Y. S. Soh, L. Feng, T. Zhou, Q. Li, Feb '20, <a href = "https://arxiv.org/abs/2002.04759">arXiv version</a>
 
@@ -35,22 +35,22 @@ You can reach me at SOH_YONG_SHENG(at)ihpc(dot)a-star(dot)edu(dot)sg.  If you ar
 
 ### Journal Publications
 
-* Fitting Tractable Convex Sets to Support Function Evaluations, Y. S. Soh and V. Chandrasekaran, Discrete and Computational Geometry (accepted), <a href = "http://arxiv.org/abs/1903.04194">arXiv version</a>, <a href = "http://github.com/yssoh/cvxreg">MATLAB code</a>
+* Fitting Tractable Convex Sets to Support Function Evaluations, Y. S. Soh and V. Chandrasekaran, Discrete and Computational Geometry (accepted), <a href = "http://arxiv.org/abs/1903.04194">arXiv version</a>, <a href = "http://github.com/yssoh/cvxreg">MATLAB code</a>  
 
 * <a href = "http://link.springer.com/article/10.1007/s10208-018-9386-z">Learning Semidefinite Regularizers</a>, Y. S. Soh and V. Chandrasekaran, Foundations of Computational Mathematics, Jan '17, <a href = "http://arxiv.org/abs/1701.01207">arXiv version</a>
-  * <i>awarded the <a href ="http://www.informs.org/Recognizing-Excellence/Community-Prizes/Optimization-Society/Optimization-Society-Student-Paper-Prize">INFORMS 2018 Optimization Society Student Paper Prize</a></i>
-  * For a summarized version, read <a href = "https://github.com/yssoh/informs18_sdpdl/raw/master/informs18_sdpdl.pdf">this</a>
-  
-* <a href = "http://www.sciencedirect.com/science/article/pii/S1063520315001542">High-Dimensional Change-Point Estimation: Combining Filtering with Convex Optimization</a>, Y. S. Soh and V. Chandrasekaran, Applied and Computational Harmonic Analysis, November '15, <a href = "http://arxiv.org/abs/1412.3731">arXiv version</a>
+    * <i>awarded the <a href ="http://www.informs.org/Recognizing-Excellence/Community-Prizes/Optimization-Society/Optimization-Society-Student-Paper-Prize">INFORMS 2018 Optimization Society Student Paper Prize</a></i>
+    * For a summarized version, read <a href = "https://github.com/yssoh/informs18_sdpdl/raw/master/informs18_sdpdl.pdf">this</a>  
 
-* Energy Efficient Heterogeneous Cellular Networks, Y. S. Soh, T. Q. S. Quek, M. Kountouris, and H. Shin, IEEE Journal on Selected Areas in Communications, Apr '13, <a href = "SQKS_JSAC13.pdf">PDF</a>, <a href = "http://github.com/yssoh/green_hcn">MATLAB code</a>
+* <a href = "https://www.sciencedirect.com/science/article/pii/S1063520315001542">High-Dimensional Change-Point Estimation: Combining Filtering with Convex Optimization</a>, Y. S. Soh and V. Chandrasekaran, Applied and Computational Harmonic Analysis, November '15, <a href = "http://arxiv.org/abs/1412.3731">arXiv version</a>  
 
-* <a href = "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6594782">Cognitive Hybrid Division Duplex for Two-Tier Femtocell Networks</a>, Y. S. Soh, T. Q. S. Quek, M. Kountouris, and G. Caire, IEEE Transactions on Wireless Communications, September '13, <a href = "SQKC_TWC13.pdf">PDF</a>
+* <a href = "https://ieeexplore.ieee.org/document/6502479">Energy Efficient Heterogeneous Cellular Networks</a>, Y. S. Soh, T. Q. S. Quek, M. Kountouris, and H. Shin, IEEE Journal on Selected Areas in Communications, Apr '13, <a href = "SQKS_JSAC13.pdf">PDF</a>, <a href = "http://github.com/yssoh/green_hcn">MATLAB code</a>  
+
+* <a href = "https://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6594782">Cognitive Hybrid Division Duplex for Two-Tier Femtocell Networks</a>, Y. S. Soh, T. Q. S. Quek, M. Kountouris, and G. Caire, IEEE Transactions on Wireless Communications, September '13, <a href = "SQKC_TWC13.pdf">PDF</a>  
 
 ### Thesis
 
 * Fitting Convex Sets to Data: Algorithms and Applications, Aug '18, <a href = "http://thesis.library.caltech.edu/11208/1/YongSheng_Soh_2019.pdf">PDF</a>
-  * <i>awarded the W. P. Carey & Co. Prize for oustanding thesis in Applied Mathematics and the Ben P. C. Chou Doctoral Prize for outstanding thesis in Information Science and Technology</i>
+    * <i>awarded the W. P. Carey & Co. Prize for oustanding thesis in Applied Mathematics and the Ben P. C. Chou Doctoral Prize for outstanding thesis in Information Science and Technology</i>
 
 ### Conference Proceedings
 
