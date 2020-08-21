@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+
+<title>MATLAB Code for replicating experiments in ``A Matrix Factorization Approach for Learning Semidefinite-Representable Regularizers''</title>
+
+</head>
+
+
+<body>
+
+<body style="font-family:helvetica">
+
+<h2 style="font-family:verdana;">MATLAB Code for replicating experiments in ``A Matrix Factorization Approach for Learning Semidefinite-Representable Regularizers''</h1>
+
+<hr>
+
+<p>To replicate the results of the numerical experiments on natural images, use the following links <a href="numexp.zip">here (.zip)</a>, and <a href="numexp.tar.gz">here (.tar.gz)</a>. </p>
+
+
+<hr>
+</body>
+</html>
