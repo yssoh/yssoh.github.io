@@ -23,7 +23,7 @@ email: matsys@nus.edu.sg
 description: >- # this means to ignore newlines until "baseurl:"
   Yong-Sheng Soh's Research and Teaching Website
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "yssoh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  yssoh
 
 # Build settings
