@@ -4,7 +4,11 @@ title: Research
 permalink: /research/
 ---
 
+
 ### Research Articles (Journal Publications, Selected Conference Proceedings, Pre-prints)
+
+1. Evaluating Policy Effects through Network Dynamics and Sampling, ETY Ang, Y. S. Soh, *pre-print*, Dec '24 
+
 1. Exactness Conditions for Semidefinite Relaxations of the Quadratic Assignment Problem, J. Chen, Y. S. Soh, *pre-print*, Sep '24 <a href = "https://arxiv.org/abs/2409.08802">[arXiv]</a>
 
 1. The Star Geometry of Critic-Based Regularizer Learning, <a href ="https://www.oscarleong.com/">O. Leong</a>, <a href ="https://sites.google.com/view/eliza-oreilly/home">E. O'Reilly</a>, Y. S. Soh, *NeurIPS (to appear)*, Sep '24, <a href = "https://arxiv.org/abs/2408.16852">[arXiv]</a>
@@ -33,9 +37,11 @@ permalink: /research/
 
 1. Fitting Tractable Convex Sets to Support Function Evaluations, Y. S. Soh and [V. Chandrasekaran](http://users.cms.caltech.edu/~venkatc/), *Discrete and Computational Geometry*, Jan '21, <a href = "https://link.springer.com/article/10.1007/s00454-020-00258-0">[Article]</a> <a href = "http://arxiv.org/abs/1903.04194">[arXiv]</a> <a href = "http://github.com/yssoh/cvxreg">[Code]</a>
 
-1. Learning Semidefinite Regularizers, Y. S. Soh and [V. Chandrasekaran](http://users.cms.caltech.edu/~venkatc/), *Foundations of Computational Mathematics*, Mar '18, <a href = "http://link.springer.com/article/10.1007/s10208-018-9386-z">[Article]</a> <a href = "http://arxiv.org/abs/1701.01207">[arXiv]</a> <a href = "https://github.com/yssoh/SDP_DL">[Code]</a>
-	1. awarded the <a href ="http://www.informs.org/Recognizing-Excellence/Community-Prizes/Optimization-Society/Optimization-Society-Student-Paper-Prize">INFORMS 2018 Optimization Society Student Paper Prize</a>
-	1. For a summarized version, read [this](https://github.com/yssoh/informs18_sdpdl/raw/master/informs18_sdpdl.pdf)
+1. Learning Semidefinite Regularizers, Y. S. Soh and [V. Chandrasekaran](http://users.cms.caltech.edu/~venkatc/), *Foundations of Computational Mathematics*, Mar '18, <a href = "http://link.springer.com/article/10.1007/s10208-018-9386-z">[Article]</a> <a href = "http://arxiv.org/abs/1701.01207">[arXiv]</a> <a href = "https://github.com/yssoh/SDP_DL">[Code]</a>  
+	
+	- awarded the <a href ="http://www.informs.org/Recognizing-Excellence/Community-Prizes/Optimization-Society/Optimization-Society-Student-Paper-Prize">INFORMS 2018 Optimization Society Student Paper Prize</a>  
+	
+	- For a summarized version, read [this](https://github.com/yssoh/informs18_sdpdl/raw/master/informs18_sdpdl.pdf) <br/> 
 	
 1. High-Dimensional Change-Point Estimation: Combining Filtering with Convex Optimization, Y. S. Soh and [V. Chandrasekaran](http://users.cms.caltech.edu/~venkatc/), *Applied and Computational Harmonic Analysis*, Nov '15, <a href = "https://www.sciencedirect.com/science/article/pii/S1063520315001542">[Article]</a> <a href = "http://arxiv.org/abs/1412.3731">[arXiv]</a>
 	
@@ -61,5 +67,7 @@ permalink: /research/
 ### Thesis
 
 1. Fitting Convex Sets to Data: Algorithms and Applications, Aug '18, [PDF](http://thesis.library.caltech.edu/11208/1/YongSheng_Soh_2019.pdf)
-	1. Awarded the W. P. Carey & Co. Prize for oustanding thesis in Applied Mathematics
-	1. Awarded the Ben P. C. Chou Doctoral Prize for outstanding thesis in Information Science and Technology
+
+	- Awarded the W. P. Carey & Co. Prize for oustanding thesis in Applied Mathematics
+
+	- Awarded the Ben P. C. Chou Doctoral Prize for outstanding thesis in Information Science and Technology

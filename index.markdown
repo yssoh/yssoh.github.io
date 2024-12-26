@@ -5,6 +5,8 @@ Email: matsys at nus dot edu dot sg
 layout: page
 ---
 
+![title](yssoh.jpg)
+
 I am an Assistant Professor in the <a href="https://www.math.nus.edu.sg/">Department of Mathematics</a> at the <a href="http://nus.edu.sg/">National University of Singapore (NUS).
 
 I am primarily interested in mathematical optimization with a focus on problems inspired by applications in the data sciences. I am interested in developing optimization-based methodology for a range of data processing problems, as well as understanding the performance and limitations of widely used optimization-based methods in the data sciences.
