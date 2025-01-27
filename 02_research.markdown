@@ -15,7 +15,7 @@ permalink: /research/
 
 1. Semidefinite Relaxations of the Gromov-Wasserstein Distance, J. Chen, B. T. Nguyen, Y. S. Soh, *NeurIPS*, Dec '23, <a href = "https://arxiv.org/pdf/2312.14572">[arXiv]</a>
 
-1. The Lovasz Theta Function for Recovering Planted Clique Covers and Graph Colorings, J. Hou, Y. S. Soh, <a href ="https://sites.google.com/site/antoniosvarvitsiotis/">A. Varvitsiotis</a>, *SIAM Journal on Optimization (accepted)*, Oct '23, <a href = "https://arxiv.org/abs/2310.00257">[arXiv]</a>
+1. The Lovasz Theta Function for Recovering Planted Clique Covers and Graph Colorings, J. Hou, Y. S. Soh, <a href ="https://sites.google.com/site/antoniosvarvitsiotis/">A. Varvitsiotis</a>, *pre-print*, Oct '23, <a href = "https://arxiv.org/abs/2310.00257">[arXiv]</a>
 
 1. Dictionary Learning under Symmetries via Group Representations, <a href ="https://subhro-ghosh.github.io/">S. Ghosh</a>, A. Y. R. Low, Y. S. Soh, Z. Feng, B. K. Y. Tan, *pre-print*, Jun '23, <a href = "https://arxiv.org/abs/2305.19557">[arXiv]</a>
 
