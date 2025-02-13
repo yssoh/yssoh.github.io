@@ -7,6 +7,8 @@ permalink: /research/
 
 ### Research Articles (Journal Publications, Selected Conference Proceedings, Pre-prints)
 
+1. Sum-of-Squares Hierarchy for the Gromov-Wasserstein Problem, HA Tran, BT Nguyen, Y. S. Soh, *pre-print*, Feb '25 
+
 1. Evaluating Policy Effects through Network Dynamics and Sampling, ETY Ang, Y. S. Soh, *pre-print*, Dec '24 
 
 1. Exactness Conditions for Semidefinite Relaxations of the Quadratic Assignment Problem, J. Chen, Y. S. Soh, *pre-print*, Sep '24 <a href = "https://arxiv.org/abs/2409.08802">[arXiv]</a>
