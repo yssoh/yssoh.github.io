@@ -7,15 +7,15 @@ permalink: /research/
 
 ### Research Articles (Journal Publications, Selected Conference Proceedings, Pre-prints)
 
-1. Sum-of-Squares Hierarchy for the Gromov-Wasserstein Problem, HA Tran, BT Nguyen, Y. S. Soh, *pre-print*, Feb '25 
+1. Sum-of-Squares Hierarchy for the Gromov-Wasserstein Problem, HA Tran, BT Nguyen, Y. S. Soh, *pre-print*, Feb '25 <a href = "https://arxiv.org/abs/2502.09102">[arXiv]</a>
 
-1. Evaluating Policy Effects through Network Dynamics and Sampling, ETY Ang, Y. S. Soh, *pre-print*, Dec '24 
+1. Evaluating Policy Effects through Network Dynamics and Sampling, ETY Ang, Y. S. Soh, *pre-print*, Jan '25 <a href = "https://arxiv.org/abs/2501.08150">[arXiv]</a>
 
 1. Exactness Conditions for Semidefinite Relaxations of the Quadratic Assignment Problem, J. Chen, Y. S. Soh, *pre-print*, Sep '24 <a href = "https://arxiv.org/abs/2409.08802">[arXiv]</a>
 
-1. The Star Geometry of Critic-Based Regularizer Learning, <a href ="https://www.oscarleong.com/">O. Leong</a>, <a href ="https://sites.google.com/view/eliza-oreilly/home">E. O'Reilly</a>, Y. S. Soh, *NeurIPS*, Sep '24, <a href = "https://arxiv.org/abs/2408.16852">[arXiv]</a>
+1. The Star Geometry of Critic-Based Regularizer Learning, <a href ="https://www.oscarleong.com/">O. Leong</a>, <a href ="https://sites.google.com/view/eliza-oreilly/home">E. O'Reilly</a>, Y. S. Soh, *NeurIPS '24*, Sep '24, <a href = "https://arxiv.org/abs/2408.16852">[arXiv]</a>
 
-1. Semidefinite Relaxations of the Gromov-Wasserstein Distance, J. Chen, B. T. Nguyen, Y. S. Soh, *NeurIPS*, Dec '23, <a href = "https://arxiv.org/pdf/2312.14572">[arXiv]</a>
+1. Semidefinite Relaxations of the Gromov-Wasserstein Distance, J. Chen, B. T. Nguyen, Y. S. Soh, *NeurIPS '24*, Dec '23, <a href = "https://arxiv.org/pdf/2312.14572">[arXiv]</a>
 
 1. The Lovasz Theta Function for Recovering Planted Clique Covers and Graph Colorings, J. Hou, Y. S. Soh, <a href ="https://sites.google.com/site/antoniosvarvitsiotis/">A. Varvitsiotis</a>, *pre-print*, Oct '23, <a href = "https://arxiv.org/abs/2310.00257">[arXiv]</a>
 
