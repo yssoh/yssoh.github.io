@@ -7,19 +7,21 @@ permalink: /research/
 
 ### Research Articles (Journal Publications, Selected Conference Proceedings, Pre-prints)
 
-1. Evaluating Policy Effects through Network Dynamics and Sampling, ETY Ang, Y. S. Soh, *pre-print*, Dec '24 
+1. Sum-of-Squares Hierarchy for the Gromov-Wasserstein Problem, HA Tran, BT Nguyen, YS Soh, *pre-print*, Feb '25 <a href = "https://arxiv.org/abs/2502.09102">[arXiv]</a>
 
-1. Exactness Conditions for Semidefinite Relaxations of the Quadratic Assignment Problem, J. Chen, Y. S. Soh, *pre-print*, Sep '24 <a href = "https://arxiv.org/abs/2409.08802">[arXiv]</a>
+1. Evaluating Policy Effects through Network Dynamics and Sampling, ETY Ang, YS Soh, *pre-print*, Jan '25 <a href = "https://arxiv.org/abs/2501.08150">[arXiv]</a>
 
-1. The Star Geometry of Critic-Based Regularizer Learning, <a href ="https://www.oscarleong.com/">O. Leong</a>, <a href ="https://sites.google.com/view/eliza-oreilly/home">E. O'Reilly</a>, Y. S. Soh, *NeurIPS*, Sep '24, <a href = "https://arxiv.org/abs/2408.16852">[arXiv]</a>
+1. Exactness Conditions for Semidefinite Relaxations of the Quadratic Assignment Problem, J Chen, YS Soh, *pre-print*, Sep '24 <a href = "https://arxiv.org/abs/2409.08802">[arXiv]</a>
 
-1. Semidefinite Relaxations of the Gromov-Wasserstein Distance, J. Chen, B. T. Nguyen, Y. S. Soh, *NeurIPS*, Dec '23, <a href = "https://arxiv.org/pdf/2312.14572">[arXiv]</a>
+1. The Star Geometry of Critic-Based Regularizer Learning, <a href ="https://www.oscarleong.com/">O Leong</a>, <a href ="https://sites.google.com/view/eliza-oreilly/home">E O'Reilly</a>, YS Soh, *NeurIPS '24*, <a href = "https://arxiv.org/abs/2408.16852">[arXiv]</a>
 
-1. The Lovasz Theta Function for Recovering Planted Clique Covers and Graph Colorings, J. Hou, Y. S. Soh, <a href ="https://sites.google.com/site/antoniosvarvitsiotis/">A. Varvitsiotis</a>, *SIAM Journal on Optimization (accepted)*, Oct '23, <a href = "https://arxiv.org/abs/2310.00257">[arXiv]</a>
+1. The Lovasz Theta Function for Recovering Planted Clique Covers and Graph Colorings, J Hou, YS Soh, <a href ="https://sites.google.com/site/antoniosvarvitsiotis/">A. Varvitsiotis</a>, *SIAM Journal on Optimization (accepted)*, Oct '23, <a href = "https://arxiv.org/abs/2310.00257">[arXiv]</a>
 
-1. Dictionary Learning under Symmetries via Group Representations, <a href ="https://subhro-ghosh.github.io/">S. Ghosh</a>, A. Y. R. Low, Y. S. Soh, Z. Feng, B. K. Y. Tan, *pre-print*, Jun '23, <a href = "https://arxiv.org/abs/2305.19557">[arXiv]</a>
+1. Semidefinite Relaxations of the Gromov-Wasserstein Distance, J Chen, BT Nguyen, YS Soh, *NeurIPS '24*, <a href = "https://arxiv.org/pdf/2312.14572">[arXiv]</a>
 
-1. Optimal Convex and Nonconvex Regularizers for a Data Source, <a href ="https://www.oscarleong.com/">O. Leong</a>, <a href ="https://sites.google.com/view/eliza-oreilly/home">E. O'Reilly</a>, Y. S. Soh, and [V. Chandrasekaran](http://users.cms.caltech.edu/~venkatc/), *Foundations of Computational Mathematics (accepted)*, Dec '22, <a href = "https://arxiv.org/abs/2212.13597">[arXiv]</a>
+1. Dictionary Learning under Symmetries via Group Representations, <a href ="https://subhro-ghosh.github.io/">S. Ghosh</a>, AYR Low, YS Soh, Z Feng, BKY Tan, *pre-print*, Jun '23, <a href = "https://arxiv.org/abs/2305.19557">[arXiv]</a>
+
+1. Optimal Convex and Nonconvex Regularizers for a Data Source, <a href ="https://www.oscarleong.com/">O Leong</a>, <a href ="https://sites.google.com/view/eliza-oreilly/home">E O'Reilly</a>, YS Soh, and [V Chandrasekaran](http://users.cms.caltech.edu/~venkatc/), *Foundations of Computational Mathematics*, Dec '22, <a href = "https://link.springer.com/article/10.1007/s10208-025-09693-y">[Article]</a> <a href = "https://arxiv.org/abs/2212.13597">[arXiv]</a>
 
 1. Multiplicative Updates for Symmetric-cone Factorizations, Y. S. Soh and <a href ="https://sites.google.com/site/antoniosvarvitsiotis/">A. Varvitsiotis</a>, *Mathematical Programming Series A*, <a href = "https://link.springer.com/article/10.1007/s10107-023-02015-6">[Article]</a> <a href = "https://arxiv.org/abs/2108.00740">[arXiv]</a>
 
@@ -51,22 +53,22 @@ permalink: /research/
   
 ### Conference Proceedings
 
-1. An Interpretable Intensive Care Unit Mortality Risk Calculator, E. T. Y. Ang, M. Nambiar, Y. S. Soh, and [V. Y. F. Tan](https://vyftan.github.io/), 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2021 [arXiv](https://arxiv.org/abs/2101.07426) [Code](https://github.com/dualinsanity007/FYP-Interpretable-ICU-Mortality-Risk-Calculator) (maintained by E. Ang)
+1. An Interpretable Intensive Care Unit Mortality Risk Calculator, E. T. Y. Ang, M. Nambiar, Y. S. Soh, and [V. Y. F. Tan](https://vyftan.github.io/), 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2021 [[arXiv]](https://arxiv.org/abs/2101.07426) [[Code]](https://github.com/dualinsanity007/FYP-Interpretable-ICU-Mortality-Risk-Calculator) (maintained by E. Ang)
 
-1. Axon Arbor Trade-off Between Wiring Cost, Delay, and Synchronization in Neuronal Networks, [Q. Liu](https://www.sustech.edu.cn/en/faculties/liuquanying.html), C. Kurniawan, C. Xu, S. Jagtap, X. Deng, K. Lou, Y. S. Soh, [Y. Nakahira](https://www.ece.cmu.edu/directory/bios/nakahira-yorie.html), 55th Annual Conference on Information Sciences and Systems, 2021 [Article](https://ieeexplore.ieee.org/abstract/document/9400271/)
+1. Axon Arbor Trade-off Between Wiring Cost, Delay, and Synchronization in Neuronal Networks, [Q. Liu](https://www.sustech.edu.cn/en/faculties/liuquanying.html), C. Kurniawan, C. Xu, S. Jagtap, X. Deng, K. Lou, Y. S. Soh, [Y. Nakahira](https://www.ece.cmu.edu/directory/bios/nakahira-yorie.html), 55th Annual Conference on Information Sciences and Systems, 2021 [[Article]](https://ieeexplore.ieee.org/abstract/document/9400271/)
 
-1. High-Dimensional Change-Point Estimation: Combining Filtering with Convex Optimization, Y. S. Soh, [V. Chandrasekaran](http://users.cms.caltech.edu/~venkatc/), ISIT, Hong Kong, June 2015 [Article](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7282435&tag=1)
+1. High-Dimensional Change-Point Estimation: Combining Filtering with Convex Optimization, Y. S. Soh, [V. Chandrasekaran](http://users.cms.caltech.edu/~venkatc/), ISIT, Hong Kong, June 2015 [[Article]](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7282435&tag=1)
 
-1. Dynamic Sleep Mode Strategies in Energy Efficient Cellular Networks, Y. S. Soh, [T. Q. S. Quek](https://people.sutd.edu.sg/~tonyquek), and [M. Kountouris](https://www.eurecom.fr/~kountour/), IEEE International Conference on Communications, Budapest, June 2013 [Article](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6655024&tag=1)
+1. Dynamic Sleep Mode Strategies in Energy Efficient Cellular Networks, Y. S. Soh, [T. Q. S. Quek](https://people.sutd.edu.sg/~tonyquek), and [M. Kountouris](https://www.eurecom.fr/~kountour/), IEEE International Conference on Communications, Budapest, June 2013 [[Article]](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6655024&tag=1)
 
-1. Flexible Duplex for Cognitive Femtocells in Two-tier Networks, Y. S. Soh, [T. Q. S. Quek](https://people.sutd.edu.sg/~tonyquek), [M. Kountouris](https://www.eurecom.fr/~kountour/), and G. Caire, Globecom, Anaheim, CA, December 2012 [Article](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6503443)
+1. Flexible Duplex for Cognitive Femtocells in Two-tier Networks, Y. S. Soh, [T. Q. S. Quek](https://people.sutd.edu.sg/~tonyquek), [M. Kountouris](https://www.eurecom.fr/~kountour/), and G. Caire, Globecom, Anaheim, CA, December 2012 [[Article]](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6503443)
 
-1. Hybrid Division Duplex for Cognitive Small Cell Networks, [T. Q. S. Quek](https://people.sutd.edu.sg/~tonyquek), Y. S. Soh, and [M. Kountouris](https://www.eurecom.fr/~kountour/), WPMC, Taipei, September 2012 [Article](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6398710)
+1. Hybrid Division Duplex for Cognitive Small Cell Networks, [T. Q. S. Quek](https://people.sutd.edu.sg/~tonyquek), Y. S. Soh, and [M. Kountouris](https://www.eurecom.fr/~kountour/), WPMC, Taipei, September 2012 [[Article]](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6398710)
 
   
 ### Thesis
 
-1. Fitting Convex Sets to Data: Algorithms and Applications, Aug '18, [PDF](http://thesis.library.caltech.edu/11208/1/YongSheng_Soh_2019.pdf)
+1. Fitting Convex Sets to Data: Algorithms and Applications, Aug '18, [[PDF]](http://thesis.library.caltech.edu/11208/1/YongSheng_Soh_2019.pdf)
 
 	- Awarded the W. P. Carey & Co. Prize for oustanding thesis in Applied Mathematics
 
