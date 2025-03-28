@@ -1,0 +1,7 @@
+---
+layout: page
+title: CV
+permalink: /cv/
+---
+
+<a href = "/assets/ys-cv.pdf">[CV]</a>
