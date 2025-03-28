@@ -23,9 +23,11 @@ Regularization techniques are extremely powerful in practice -- the difficulty o
 
 <img src="/assets/images/gwsdp_matching.png" alt="Matching" width="340"/> <img src="/assets/images/gwsdp_support.png" alt="Transportation Map Support" width="340"/> <img src="/assets/images/gwsdp_elephant.png" alt="Computer Vision Example" width="300"/> <img src="/assets/images/gwsdp_noisygraphs.png" alt="Computer Vision Example" width="150"/>
 
+1. Sum-of-Squares Hierarchy for the Gromov-Wasserstein Problem, HA Tran, BT Nguyen, YS Soh, *pre-print*, Feb '25 <a href = "https://arxiv.org/abs/2502.09102">[arXiv]</a>
+
 1. Exactness Conditions for Semidefinite Relaxations of the Quadratic Assignment Problem, J. Chen, Y. S. Soh, *pre-print*, Sep '24 <a href = "https://arxiv.org/abs/2409.08802">[arXiv]</a>
 
-1. Semidefinite Relaxations of the Gromov-Wasserstein Distance, J. Chen, B. T. Nguyen, Y. S. Soh, *NeurIPS (to appear)*, Dec '23, <a href = "https://arxiv.org/pdf/2312.14572">[arXiv]</a>
+1. Semidefinite Relaxations of the Gromov-Wasserstein Distance, J. Chen, B. T. Nguyen, Y. S. Soh, *NeurIPS '24*, Dec '23, <a href = "https://arxiv.org/pdf/2312.14572">[arXiv]</a>
 
 1. The Lovasz Theta Function for Recovering Planted Clique Covers and Graph Colorings, J. Hou, Y. S. Soh, <a href ="https://sites.google.com/site/antoniosvarvitsiotis/">A. Varvitsiotis</a>, *pre-print*, Oct '23, <a href = "https://arxiv.org/abs/2310.00257">[arXiv]</a>
 
