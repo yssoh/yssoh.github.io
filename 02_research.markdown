@@ -7,6 +7,8 @@ permalink: /research/
 
 ### Research Articles (Journal Publications, Selected Conference Proceedings, Pre-prints)
 
+1. Moment Sum-of-Squares Hierarchy for the Gromov-Wasserstein: Continuous Extensions and Sample Complexity, HA Tran, BT Nguyen, YS Soh, *pre-print*, Apr '25 
+
 1. Sum-of-Squares Hierarchy for the Gromov-Wasserstein Problem, HA Tran, BT Nguyen, YS Soh, *pre-print*, Feb '25 <a href = "https://arxiv.org/abs/2502.09102">[arXiv]</a>
 
 1. Evaluating Policy Effects through Network Dynamics and Sampling, ETY Ang, YS Soh, *pre-print*, Jan '25 <a href = "https://arxiv.org/abs/2501.08150">[arXiv]</a>
