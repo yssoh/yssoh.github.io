@@ -7,6 +7,8 @@ permalink: /research/
 
 ### Research Articles (Journal Publications, Selected Conference Proceedings, Pre-prints)
 
+1. Optimal Regularization Under Uncertainty: Distributional Robustness and Convexity Constraints, O Leong, E O'Reilly, YS Soh, Oct '25 
+
 1. Moment Sum-of-Squares Hierarchy for the Gromov-Wasserstein: Continuous Extensions and Sample Complexity, HA Tran, BT Nguyen, YS Soh, *pre-print*, Apr '25 <a href = "https://arxiv.org/abs/2504.14673">[arXiv]</a>
 
 1. Sum-of-Squares Hierarchy for the Gromov-Wasserstein Problem, HA Tran, BT Nguyen, YS Soh, *pre-print*, Feb '25 <a href = "https://arxiv.org/abs/2502.09102">[arXiv]</a>
