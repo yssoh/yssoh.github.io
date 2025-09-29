@@ -6,6 +6,8 @@ permalink: /teaching/
 
 ### Lecturer (NUS)
 
+1. AY25/26 Sem 2: MA Topics Course -- Optimal Transport
+1. AY25/26 Sem 1: DSA 3102 Essential Data Analytics Tools: Convex Optimisation
 1. AY24/25 Sem 1: MA 4270 Data Modelling and Computation
 1. AY23/24 Sem 2: MA 4270 Data Modelling and Computation
 1. AY23/24 Sem 2: MA 5232 Modeling and Numerical Simulations (1/4 Section)
