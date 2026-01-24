@@ -23,7 +23,7 @@ permalink: /research/
 
 1. Semidefinite Relaxations of the Gromov-Wasserstein Distance, J Chen, BT Nguyen, YS Soh, *NeurIPS '24*, <a href = "https://arxiv.org/pdf/2312.14572">[arXiv]</a>
 
-1. Dictionary Learning under Symmetries via Group Representations, <a href ="https://subhro-ghosh.github.io/">S. Ghosh</a>, AYR Low, YS Soh, Z Feng, BKY Tan, *pre-print*, Jun '23, <a href = "https://arxiv.org/abs/2305.19557">[arXiv]</a>
+1. Dictionary Learning under Symmetries via Group Representations, <a href ="https://subhro-ghosh.github.io/">S. Ghosh</a>, AYR Low, YS Soh, Z Feng, BKY Tan, *Applied and Computational Harmonic Analysis (accepted)*, Jun '23, <a href = "https://arxiv.org/abs/2305.19557">[arXiv]</a>
 
 1. Optimal Convex and Nonconvex Regularizers for a Data Source, <a href ="https://www.oscarleong.com/">O Leong</a>, <a href ="https://sites.google.com/view/eliza-oreilly/home">E O'Reilly</a>, YS Soh, and [V Chandrasekaran](http://users.cms.caltech.edu/~venkatc/), *Foundations of Computational Mathematics*, Dec '22, <a href = "https://link.springer.com/article/10.1007/s10208-025-09693-y">[Article]</a> <a href = "https://arxiv.org/abs/2212.13597">[arXiv]</a>
 
