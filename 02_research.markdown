@@ -11,17 +11,17 @@ permalink: /research/
 
 1. Moment Sum-of-Squares Hierarchy for the Gromov-Wasserstein: Continuous Extensions and Sample Complexity, HA Tran, BT Nguyen, YS Soh, *pre-print*, Apr '25 <a href = "https://arxiv.org/abs/2504.14673">[arXiv]</a>
 
-1. Sum-of-Squares Hierarchy for the Gromov-Wasserstein Problem, HA Tran, BT Nguyen, YS Soh, *SIAM Journal on Optimization (accepted)*, Feb '25 <a href = "https://arxiv.org/abs/2502.09102">[arXiv]</a>
+1. Sum-of-Squares Hierarchy for the Gromov-Wasserstein Problem, HA Tran, BT Nguyen, YS Soh, *SIAM Journal on Optimization*, Feb '26 <a href = "https://epubs.siam.org/doi/10.1137/25M1736876">[Article]</a> <a href = "https://arxiv.org/abs/2502.09102">[arXiv]</a>
 
-1. Evaluating Policy Effects through Network Dynamics and Sampling, ETY Ang, YS Soh, *IEEE Transactions on Network Science and Engineering (accepted)*, Jan '25 <a href = "https://arxiv.org/abs/2501.08150">[arXiv]</a>
+1. Evaluating Policy Effects through Network Dynamics and Sampling, ETY Ang, YS Soh, *IEEE Transactions on Network Science and Engineering (accepted)*, Jan '25 <a href = "https://ieeexplore.ieee.org/document/11239477/">[Article]</a> <a href = "https://arxiv.org/abs/2501.08150">[arXiv]</a>
 
 1. Exactness Conditions for Semidefinite Relaxations of the Quadratic Assignment Problem, J Chen, YS Soh, *pre-print*, Sep '24 <a href = "https://arxiv.org/abs/2409.08802">[arXiv]</a>
 
-1. The Star Geometry of Critic-Based Regularizer Learning, <a href ="https://www.oscarleong.com/">O Leong</a>, <a href ="https://sites.google.com/view/eliza-oreilly/home">E O'Reilly</a>, YS Soh, *NeurIPS '24*, <a href = "https://arxiv.org/abs/2408.16852">[arXiv]</a>
+1. The Star Geometry of Critic-Based Regularizer Learning, <a href ="https://www.oscarleong.com/">O Leong</a>, <a href ="https://sites.google.com/view/eliza-oreilly/home">E O'Reilly</a>, YS Soh, *NeurIPS '24*, <a href = "https://proceedings.neurips.cc/paper_files/paper/2024/file/834d4d24d223e5dc05f9971eaf30d4a6-Paper-Conference.pdf">[Article]</a> <a href = "https://arxiv.org/abs/2408.16852">[arXiv]</a>
 
-1. The Lovasz Theta Function for Recovering Planted Clique Covers and Graph Colorings, J Hou, YS Soh, <a href ="https://sites.google.com/site/antoniosvarvitsiotis/">A. Varvitsiotis</a>, *SIAM Journal on Optimization (accepted)*, Oct '23, <a href = "https://arxiv.org/abs/2310.00257">[arXiv]</a>
+1. The Lovasz Theta Function for Recovering Planted Clique Covers and Graph Colorings, J Hou, YS Soh, <a href ="https://sites.google.com/site/antoniosvarvitsiotis/">A. Varvitsiotis</a>, *SIAM Journal on Optimization*, Oct '23, <a href = "https://epubs.siam.org/doi/abs/10.1137/23M1609622?journalCode=sjope8">[Article]</a> <a href = "https://arxiv.org/abs/2310.00257">[arXiv]</a>
 
-1. Semidefinite Relaxations of the Gromov-Wasserstein Distance, J Chen, BT Nguyen, YS Soh, *NeurIPS '24*, <a href = "https://arxiv.org/pdf/2312.14572">[arXiv]</a>
+1. Semidefinite Relaxations of the Gromov-Wasserstein Distance, J Chen, BT Nguyen, YS Soh, *NeurIPS '24*, <a href = "https://proceedings.neurips.cc/paper_files/paper/2024/file/8189d86a5d8dea0694d43bb90e01c14d-Paper-Conference.pdf">[Article]</a> <a href = "https://arxiv.org/pdf/2312.14572">[arXiv]</a> <a href = "https://github.com/JunyuChenOPT/GW-SDP-Solver">[Code]</a>
 
 1. Dictionary Learning under Symmetries via Group Representations, <a href ="https://subhro-ghosh.github.io/">S. Ghosh</a>, AYR Low, YS Soh, Z Feng, BKY Tan, *Applied and Computational Harmonic Analysis (accepted)*, Jun '23, <a href = "https://arxiv.org/abs/2305.19557">[arXiv]</a>
 
