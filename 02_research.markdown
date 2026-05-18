@@ -7,15 +7,17 @@ permalink: /research/
 
 ### Research Articles (Journal Publications, Selected Conference Proceedings, Pre-prints)
 
-1. Optimal Regularization Under Uncertainty: Distributional Robustness and Convexity Constraints, O Leong, E O'Reilly, YS Soh, *pre-print*, Oct '25 <a href = "https://arxiv.org/abs/2510.03464">[arXiv]</a> <a href = "https://github.com/yssoh/DRO-REG">[Code]</a>
+1. Fairness-Guaranteed Online Power Allocation Policies for EV Fast Charging Stations, Can Berk Saner, YS Soh, A Varvitsiotis, *pre-print*, May '26, <a href = "https://arxiv.org/abs/2605.15750">[arXiv]</a> 
 
-1. Moment Sum-of-Squares Hierarchy for the Gromov-Wasserstein: Continuous Extensions and Sample Complexity, HA Tran, BT Nguyen, YS Soh, *pre-print*, Apr '25 <a href = "https://arxiv.org/abs/2504.14673">[arXiv]</a>
+1. Optimal Regularization Under Uncertainty: Distributional Robustness and Convexity Constraints, O Leong, E O'Reilly, YS Soh, *pre-print*, Oct '25, <a href = "https://arxiv.org/abs/2510.03464">[arXiv]</a> <a href = "https://github.com/yssoh/DRO-REG">[Code]</a>
 
-1. Sum-of-Squares Hierarchy for the Gromov-Wasserstein Problem, HA Tran, BT Nguyen, YS Soh, *SIAM Journal on Optimization*, Feb '26 <a href = "https://epubs.siam.org/doi/10.1137/25M1736876">[Article]</a> <a href = "https://arxiv.org/abs/2502.09102">[arXiv]</a>
+1. Moment Sum-of-Squares Hierarchy for the Gromov-Wasserstein: Continuous Extensions and Sample Complexity, HA Tran, BT Nguyen, YS Soh, *pre-print*, Apr '25, <a href = "https://arxiv.org/abs/2504.14673">[arXiv]</a>
 
-1. Evaluating Policy Effects through Network Dynamics and Sampling, ETY Ang, YS Soh, *IEEE Transactions on Network Science and Engineering (accepted)*, Jan '25 <a href = "https://ieeexplore.ieee.org/document/11239477/">[Article]</a> <a href = "https://arxiv.org/abs/2501.08150">[arXiv]</a>
+1. Sum-of-Squares Hierarchy for the Gromov-Wasserstein Problem, HA Tran, BT Nguyen, YS Soh, *SIAM Journal on Optimization*, Feb '26, <a href = "https://epubs.siam.org/doi/10.1137/25M1736876">[Article]</a> <a href = "https://arxiv.org/abs/2502.09102">[arXiv]</a>
 
-1. Exactness Conditions for Semidefinite Relaxations of the Quadratic Assignment Problem, J Chen, YS Soh, *pre-print*, Sep '24 <a href = "https://arxiv.org/abs/2409.08802">[arXiv]</a>
+1. Evaluating Policy Effects through Network Dynamics and Sampling, ETY Ang, YS Soh, *IEEE Transactions on Network Science and Engineering (accepted)*, Jan '25, <a href = "https://ieeexplore.ieee.org/document/11239477/">[Article]</a> <a href = "https://arxiv.org/abs/2501.08150">[arXiv]</a>
+
+1. Exactness Conditions for Semidefinite Relaxations of the Quadratic Assignment Problem, J Chen, YS Soh, *pre-print*, Sep '24, <a href = "https://arxiv.org/abs/2409.08802">[arXiv]</a>
 
 1. The Star Geometry of Critic-Based Regularizer Learning, <a href ="https://www.oscarleong.com/">O Leong</a>, <a href ="https://sites.google.com/view/eliza-oreilly/home">E O'Reilly</a>, YS Soh, *NeurIPS '24*, <a href = "https://proceedings.neurips.cc/paper_files/paper/2024/file/834d4d24d223e5dc05f9971eaf30d4a6-Paper-Conference.pdf">[Article]</a> <a href = "https://arxiv.org/abs/2408.16852">[arXiv]</a>
 
