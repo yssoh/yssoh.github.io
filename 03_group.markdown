@@ -7,6 +7,8 @@ permalink: /group/
 
 ### Graduate Students
 
+1. Warren Hagen Zahn
+
 1. [Junyu Chen](https://blog.nus.edu.sg/chenjunyu/)
 
 1. Eugene Ang (co-supervisor: Andrew Lim, Bhattacharya Prasanta)
