@@ -7,6 +7,10 @@ permalink: /research/
 
 ### Research Articles (Journal Publications, Selected Conference Proceedings, Pre-prints)
 
+1. SO(2) Alignment via Low-Passing and Homotopic Continuation, Joe Kileel, Elzbieta Polak, YS Soh, Aug '26
+
+1. Quadratic Optimization over Probability Measures with Coupling Constraints, HA Tran, YS Soh, Aug '26
+
 1. Fairness-Guaranteed Online Power Allocation Policies for EV Fast Charging Stations, Can Berk Saner, YS Soh, A Varvitsiotis, *pre-print*, May '26, <a href = "https://arxiv.org/abs/2605.15750">[arXiv]</a> 
 
 1. Optimal Regularization Under Uncertainty: Distributional Robustness and Convexity Constraints, O Leong, E O'Reilly, YS Soh, *pre-print*, Oct '25, <a href = "https://arxiv.org/abs/2510.03464">[arXiv]</a> <a href = "https://github.com/yssoh/DRO-REG">[Code]</a>
