@@ -13,7 +13,7 @@ permalink: /research/
 
 1. Fairness-Guaranteed Online Power Allocation Policies for EV Fast Charging Stations, Can Berk Saner, YS Soh, A Varvitsiotis, *pre-print*, May '26, <a href = "https://arxiv.org/abs/2605.15750">[arXiv]</a> 
 
-1. Optimal Regularization Under Uncertainty: Distributional Robustness and Convexity Constraints, O Leong, E O'Reilly, YS Soh, *pre-print*, Oct '25, <a href = "https://arxiv.org/abs/2510.03464">[arXiv]</a> <a href = "https://github.com/yssoh/DRO-REG">[Code]</a>
+1. Optimal Regularization Under Uncertainty: Distributional Robustness and Convexity Constraints, O Leong, E O'Reilly, YS Soh, *SIAM Journal on Mathematics of Data Science (Accepted)*, Oct '25, <a href = "https://arxiv.org/abs/2510.03464">[arXiv]</a> <a href = "https://github.com/yssoh/DRO-REG">[Code]</a>
 
 1. Moment Sum-of-Squares Hierarchy for the Gromov-Wasserstein: Continuous Extensions and Sample Complexity, HA Tran, BT Nguyen, YS Soh, *pre-print*, Apr '25, <a href = "https://arxiv.org/abs/2504.14673">[arXiv]</a>
 
