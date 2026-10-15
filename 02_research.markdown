@@ -7,7 +7,9 @@ permalink: /research/
 
 ### Research Articles (Journal Publications, Selected Conference Proceedings, Pre-prints)
 
-1. SO(2) Alignment via Low-Passing and Homotopic Continuation, Joe Kileel, Elzbieta Polak, YS Soh, Aug '26
+1. SO(2) Alignment via Low-Passing and Homotopic Continuation, Joe Kileel, Elzbieta Polak, YS Soh, Oct '26
+
+1. A note on the NP-Hardness of the Gromov-Wasserstein Problem, N Kravtsova, YS Soh, Oct '26
 
 1. Quadratic Optimization over Probability Measures with Coupling Constraints, HA Tran, YS Soh, *pre-print*, Aug '26, <a href = "https://arxiv.org/abs/2608.24184">[arXiv]</a>
 
