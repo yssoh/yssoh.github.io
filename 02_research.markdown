@@ -9,7 +9,7 @@ permalink: /research/
 
 1. SO(2) Alignment via Low-Passing and Homotopic Continuation, Joe Kileel, Elzbieta Polak, YS Soh, Oct '26
 
-1. A note on the NP-Hardness of the Gromov-Wasserstein Problem, N Kravtsova, YS Soh, Oct '26
+1. A Note on the NP-Hardness on Quadratic Optimization over Doubly Stochastic Matrices and the Gromov-Wasserstein Problem, YS Soh, Oct '26, <a href = "https://github.com/yssoh/yssoh.github.io/blob/master/assets/gw-hardness.pdf">[PDF]</a> 
 
 1. Quadratic Optimization over Probability Measures with Coupling Constraints, HA Tran, YS Soh, *pre-print*, Aug '26, <a href = "https://arxiv.org/abs/2608.24184">[arXiv]</a>
 
