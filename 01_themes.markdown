@@ -18,6 +18,7 @@ Regularization techniques are extremely powerful in practice -- the difficulty o
 
 1. The Star Geometry of Critic-Based Regularizer Learning, <a href ="https://www.oscarleong.com/">O. Leong</a>, <a href ="https://sites.google.com/view/eliza-oreilly/home">E. O'Reilly</a>, Y. S. Soh, *NeurIPS*, Sep '24, <a href = "https://arxiv.org/abs/2408.16852">[arXiv]</a>
 
+1. Optimal Regularization Under Uncertainty: Distributional Robustness and Convexity Constraints, O Leong, E O'Reilly, YS Soh, *SIAM Journal on Mathematics of Data Science (Accepted)*, Oct '25, <a href = "https://arxiv.org/abs/2510.03464">[arXiv]</a> <a href = "https://github.com/yssoh/DRO-REG">[Code]</a>
 
 ### Graph Matching, Gromov-Wasserstein
 
