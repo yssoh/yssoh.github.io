@@ -6,16 +6,16 @@ permalink: /teaching/
 
 ### Lecturer (NUS)
 
-1. AY26/27 Sem 1: MA 4260 Discrete Optimisation
+1. AY26/27 Sem 1: MA 4254 Discrete Optimisation
 1. AY25/26 Sem 2: MA Topics Course -- Optimal Transport
 1. AY25/26 Sem 2: MA 5232 Modeling and Numerical Simulations (1/4 Section)
 1. AY25/26 Sem 1: DSA 3102 Essential Data Analytics Tools: Convex Optimisation
 1. AY24/25 Sem 1: MA 4270 Data Modelling and Computation
 1. AY23/24 Sem 2: MA 4270 Data Modelling and Computation
 1. AY23/24 Sem 2: MA 5232 Modeling and Numerical Simulations (1/4 Section)
-1. AY23/24 Sem 1: MA 4260 Discrete Optimisation
+1. AY23/24 Sem 1: MA 4254 Discrete Optimisation
 1. AY22/23 Sem 2: MA 5232 Modeling and Numerical Simulations (1/4 Section)
-1. AY22/23 Sem 1: MA 4260 Discrete Optimisation
+1. AY22/23 Sem 1: MA 4254 Discrete Optimisation
 1. AY21/22 Sem 2: MA 4260 Stochastic Operations Research
 1. AY21/22 Sem 2: MA 5232 Modeling and Numerical Simulations (1/4 Section)
 1. AY21/22 Sem 1: MA 4254 Discrete Optimisation
