@@ -32,6 +32,9 @@ Regularization techniques are extremely powerful in practice -- the difficulty o
 
 1. The Lovasz Theta Function for Recovering Planted Clique Covers and Graph Colorings, J. Hou, Y. S. Soh, <a href ="https://sites.google.com/site/antoniosvarvitsiotis/">A. Varvitsiotis</a>, *pre-print*, Oct '23, <a href = "https://arxiv.org/abs/2310.00257">[arXiv]</a>
 
+1. Moment Sum-of-Squares Hierarchy for the Gromov-Wasserstein: Continuous Extensions and Sample Complexity, HA Tran, BT Nguyen, YS Soh, *pre-print*, Apr '25, <a href = "https://arxiv.org/abs/2504.14673">[arXiv]</a>
+
+1. Quadratic Optimization over Probability Measures with Coupling Constraints, HA Tran, YS Soh, *pre-print*, Aug '26, <a href = "https://arxiv.org/abs/2608.24184">[arXiv]</a>
 
 ### Learning Data Representations with Symmetries
 
