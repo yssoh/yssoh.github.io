@@ -7,9 +7,11 @@ permalink: /research/
 
 ### Research Articles (Journal Publications, Selected Conference Proceedings, Pre-prints)
 
-1. SO(2) Alignment via Low-Passing and Homotopic Continuation, Joe Kileel, Elzbieta Polak, YS Soh, Oct '26
+1. Gradient Flows over Convex Bodies for Learning Optimal Regularizers, N Metya, <a href ="https://www.oscarleong.com/">O Leong</a>, YS Soh, *pre-print*, Nov '26
 
 1. Distributionally Robust Optimization over Incomparable Spaces, J Chen, J Shi, YS Soh, *pre-print*, Nov '26, <a href = "https://arxiv.org/html/2611.01557v1">[arXiv]</a>
+
+1. SO(2) Alignment via Low-Passing and Homotopic Continuation, Joe Kileel, Elzbieta Polak, YS Soh, Oct '26
 
 1. A Note on the NP-Hardness on Quadratic Optimization over Doubly Stochastic Matrices and the Gromov-Wasserstein Problem, YS Soh, Oct '26, <a href = "https://github.com/yssoh/yssoh.github.io/blob/master/assets/gw-hardness.pdf">[PDF]</a> 
 
@@ -17,7 +19,7 @@ permalink: /research/
 
 1. Fairness-Guaranteed Online Power Allocation Policies for EV Fast Charging Stations, Can Berk Saner, YS Soh, A Varvitsiotis, *pre-print*, May '26, <a href = "https://arxiv.org/abs/2605.15750">[arXiv]</a> 
 
-1. Optimal Regularization Under Uncertainty: Distributional Robustness and Convexity Constraints, O Leong, E O'Reilly, YS Soh, *SIAM Journal on Mathematics of Data Science (Accepted)*, Oct '25, <a href = "https://arxiv.org/abs/2510.03464">[arXiv]</a> <a href = "https://github.com/yssoh/DRO-REG">[Code]</a>
+1. Optimal Regularization Under Uncertainty: Distributional Robustness and Convexity Constraints, <a href ="https://www.oscarleong.com/">O Leong</a>, <a href ="https://sites.google.com/view/eliza-oreilly/home">E O'Reilly</a>, YS Soh, *SIAM Journal on Mathematics of Data Science (Accepted)*, Oct '25, <a href = "https://arxiv.org/abs/2510.03464">[arXiv]</a> <a href = "https://github.com/yssoh/DRO-REG">[Code]</a>
 
 1. Moment Sum-of-Squares Hierarchy for the Gromov-Wasserstein: Continuous Extensions and Sample Complexity, HA Tran, BT Nguyen, YS Soh, *pre-print*, Apr '25, <a href = "https://arxiv.org/abs/2504.14673">[arXiv]</a>
 
