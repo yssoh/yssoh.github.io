@@ -7,7 +7,7 @@ permalink: /research/
 
 ### Research Articles (Journal Publications, Selected Conference Proceedings, Pre-prints)
 
-1. Gradient Flows over Convex Bodies for Learning Optimal Regularizers, N Metya, <a href ="https://www.oscarleong.com/">O Leong</a>, YS Soh, *pre-print*, Nov '26
+1. Gradient Flows over Convex Bodies for Learning Optimal Regularizers, N Metya, <a href ="https://www.oscarleong.com/">O Leong</a>, YS Soh, *pre-print*, Nov '26, <a href = "https://arxiv.org/abs/2611.16142">[arXiv]</a>
 
 1. Distributionally Robust Optimization over Incomparable Spaces, J Chen, J Shi, YS Soh, *pre-print*, Nov '26, <a href = "https://arxiv.org/html/2611.01557v1">[arXiv]</a>
 
